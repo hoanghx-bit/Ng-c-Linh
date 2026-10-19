@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hệ Thống Quản Lý Phân Phối - DMS Pro</title>
+    <title>DMS Pro</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
     <script src="https://unpkg.com/lucide@latest"></script>
     <style>
@@ -126,7 +126,7 @@
     <div class="main-wrapper">
         <div class="top-header">
             <div class="header-title" id="page-title">Quản lý Lên đơn hàng</div>
-            <div class="user-badge"><i data-lucide="user"></i>Lê Hoàng</div>
+            <div class="user-badge"><i data-lucide="user"></i>Ngọc Linh</div>
         </div>
         <div class="content-body">
             <div id="tab-order" class="tab-panel active">
